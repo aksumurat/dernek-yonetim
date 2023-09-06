@@ -54,8 +54,7 @@ Bu yazılımı dilediğiniz gibi kullanabilir, geliştirebilir ve dağıtabilirs
 ## İletişim
 Eğer ücretli destek veya herhangi bir soru, öneri veya geri bildirim için benimle iletişime geçmek isterseniz:
 
-WhatsApp: 0551 858 09 58
-E-posta: hi@alicangunduz.dev
-
+- 📫 Bana ulaşmak isterseniz **murat@murataksu.net.tr** adresini kullanabilirsiniz. <br><br>
 
 Umarım işinize yarar 🥰⚡
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aksumurat&data=followers,repositories,stars,commits&theme=nautilus)
